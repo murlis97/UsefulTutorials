@@ -17,6 +17,9 @@
 8. **[Learn Authentication](#learn-authentication)**
 9. **[Learn Git](#learn-git)**
 10. **[Learn PHP](#learn-php)**
+11. **[Learn Laravel](#learn-laravel)**
+12. **[Tips](#tips)**
+
 
 ---
 
@@ -131,7 +134,7 @@ The list below isn't meant to be exclusive, it's more so a collection of links t
 ### Learn PHP
 
 * https://www.w3schools.com/php/
-* https://www.youtube.com/watch?v=oJbfyzaA2QA&list=PLillGF-Rfqbap2IB6ZS4BBBcYPagAjpjn - (Video Tutorials)
+* [Traversy Media PHP Video Tutorials](https://www.youtube.com/watch?v=oJbfyzaA2QA&list=PLillGF-Rfqbap2IB6ZS4BBBcYPagAjpjn) 
 
 
 ---
