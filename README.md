@@ -2,7 +2,7 @@
 
 ## Resources for learning Full Stack Web Development.
 
-#### **Hello! we created this list and constantly updating it with new resources, information, and news.**
+#### **Hello! We created this list and constantly updating it with new resources, information, and news.**
 
 ---
 
@@ -24,7 +24,8 @@
 ---
 
 ### Start Here
-The list below isn't meant to be exclusive, it's more so a collection of links that have helped us out along the way (and can hopefully help you). As you'll see, we have focused on JavaScript, PHP, and Laravel.
+The list below isn't meant to be exclusive, it is just a collection of links that have helped us out along the way (and can hopefully help you). As you'll see, we have focused on JavaScript, PHP, and Laravel.
+These tutorials are not very tough and with utmost concentration you can get through all this content in 3-4 weeks (except maybe some challenges) to become a Web Developer
 
 ---
 
@@ -146,7 +147,8 @@ The list below isn't meant to be exclusive, it's more so a collection of links t
 ---
 
 ## Tips
-1. Use StackOverflow before asking questions
+1. Use StackOverflow for asking questions (It is the one place that will help you all your life)
 2. Laravel 5.5 is damn good
-3. Keep your php updated (>=7.1)
-
+3. Keep your PHP updated (>=7.1)
+4. If this seems tough you aren't paying attention. FOCUS!
+5. This isn't Maths, if it seems easy, it probably is.
