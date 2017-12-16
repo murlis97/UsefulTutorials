@@ -16,6 +16,7 @@
 7. **[Learn Databases](#learn-databases)**
 8. **[Learn Authentication](#learn-authentication)**
 9. **[Learn Git](#learn-git)**
+10. **[Learn PHP](#learn-php)**
 
 ---
 
