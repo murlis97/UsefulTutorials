@@ -143,6 +143,9 @@ These tutorials are not very tough and with utmost concentration you can get thr
 * [Treversy Media Laravel Tutorial (This is the best one)](https://www.youtube.com/watch?v=EU7PRmCpx-0&list=PLillGF-RfqbYhQsN5WMXy6VsDMKGadrJ)
 * http://laravel-recipes.com/?ref=LearningLaravel
 * [Laracast(Best community for Laravel)](https://laravel.io/?ref=LearningLaravel)
+* [Eloquent (For Database Connection)](https://laravel.com/docs/5.7/eloquent-resources)
+* [API Resources](https://laravel.com/docs/5.7/eloquent-resources)
+
 
 ---
 
